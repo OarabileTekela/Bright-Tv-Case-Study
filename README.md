@@ -16,6 +16,7 @@ Improving content scheduling
 Personalizing user experience
 Targeting high-performing regions
 Increasing overall platform engagement
+Project Online presentation https://brew-data-gems.lovable.app/
 
 # Tools used for the Case Study
 Miro (Project planning and design)
